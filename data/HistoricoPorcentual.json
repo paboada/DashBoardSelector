@@ -1,16 +1,9 @@
 [
-    {"category": "DO", "measure": 31},
-    {"category": "PIX", "measure": 11},
-    {"category": "LPN", "measure": 21},
-    {"category": "SHIPMENT", "measure": 25},
-    {"category": "DOORS", "measure": 12},
-    {"category": "SCI", "measure": 7},
-    {"category": "WMS", "measure": 4},
-    {"category": "ASN", "measure": 18},
-    {"category": "SGL", "measure": 3},
-    {"category": "ITEMS", "measure": 2},
-    {"category": "WAVES", "measure": 2},
-    {"category": "PO", "measure": 2},
-    {"category": "SLI", "measure": 0}
+    {"category": "C1", "measure": 31},
+    {"category": "C2", "measure": 11},
+    {"category": "C3", "measure": 21},
+    {"category": "C4", "measure": 25},
+    {"category": "C5", "measure": 12},
+    {"category": "C6", "measure": 7}
 ]
 	      

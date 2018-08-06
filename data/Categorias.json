@@ -1,15 +1,8 @@
 [
-    {"category": "DO", "measure": 7.7},
-    {"category": "PIX", "measure": 7.7},
-    {"category": "LPN", "measure": 7.7},
-    {"category": "SHIPMENT", "measure": 7.7},
-    {"category": "DOORS", "measure": 7.7},
-    {"category": "SCI", "measure":7.7},
-    {"category": "WMS", "measure": 7.7},
-    {"category": "ASN", "measure": 7.7},
-    {"category": "SGL", "measure": 7.7},
-    {"category": "ITEMS", "measure": 7.7},
-    {"category": "WAVES", "measure": 7.7},
-    {"category": "PO", "measure": 7.7},
-    {"category": "SLI", "measure": 7.6}
+    {"category": "C1", "measure": 16.7},
+   {"category": "C2", "measure": 16.7},
+    {"category": "C3", "measure": 16.7},
+    {"category": "C4", "measure": 16.7},
+    {"category": "C5", "measure": 16.7},
+    {"category": "C6", "measure":16.6}
 ]
