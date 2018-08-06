@@ -1,0 +1,43 @@
+[
+{ "group": "All", "category": 1, "measure": 61 }, 
+{ "group": "All", "category": 2, "measure": 77 },
+
+{ "group": "DO", "category": 1, "measure": 17 }, 
+{ "group": "DO", "category": 2, "measure": 14 },
+
+{ "group": "PIX", "category": 1, "measure": 8 }, 
+{ "group": "PIX", "category": 2, "measure": 3 },
+
+{ "group": "LPN", "category": 1, "measure": 8 }, 
+{ "group": "LPN", "category": 2, "measure": 13 },
+
+{ "group": "SHIPMENT", "category": 1, "measure": 6 }, 
+{ "group": "SHIPMENT", "category": 2, "measure": 19 },
+
+{ "group": "DOORS", "category": 1, "measure": 6 }, 
+{ "group": "DOORS", "category": 2, "measure": 6 },
+
+{ "group": "SCI", "category": 1, "measure": 4 }, 
+{ "group": "SCI", "category": 2, "measure": 3 },
+
+{ "group": "WMS", "category": 1, "measure": 3 }, 
+{ "group": "WMS", "category": 2, "measure": 1 },
+
+{ "group": "ASN", "category": 1, "measure": 3 }, 
+{ "group": "ASN", "category": 2, "measure": 15 },     
+ 
+ { "group": "SGL", "category": 1, "measure": 2 }, 
+{ "group": "SGL", "category": 2, "measure": 1 },
+
+{ "group": "ITEMS", "category": 1, "measure": 2 }, 
+{ "group": "ITEMS", "category": 2, "measure": 0 },
+
+{ "group": "WAVES", "category": 1, "measure": 1 }, 
+{ "group": "WAVES", "category": 2, "measure": 1 },
+
+{ "group": "SLI", "category": 1, "measure": 0 }, 
+{ "group": "SLI", "category": 2, "measure": 0 },
+
+{ "group": "PO", "category": 1, "measure": 1 }, 
+{ "group": "PO", "category": 2, "measure": 1 }
+]
