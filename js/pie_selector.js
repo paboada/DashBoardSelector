@@ -87,7 +87,7 @@ function pie_selector(){
 		vis.append("svg:text")
 	     	.attr("dy", ".35em")
 	      .attr("text-anchor", "middle")
-	      .text("Seleccione la Categoria")
+	      .text("Clic en la Categoria")
 	      .attr("class","title")
 	      ;	                    
         function mouseover() {

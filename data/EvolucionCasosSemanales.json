@@ -1,4 +1,8 @@
 [
-{ "group": "All", "category": 1, "measure": 61 }, 
-{ "group": "All", "category": 2, "measure": 77 }
+{ "group": "All", "category": 1, "measure": 20 }, 
+{ "group": "All", "category": 2, "measure": 17 },
+{ "group": "All", "category": 3, "measure": 35 },
+{ "group": "All", "category": 4, "measure": 100 },
+{ "group": "All", "category": 5, "measure": 50 },
+{ "group": "All", "category": 6, "measure": 25 }
 ]
